@@ -16,6 +16,7 @@ Este exemplo é um modelo de cronograma simples, documentação sobre o gráfico
     Pré-projeto     :a1, 2022-11-01, 15d
     Levantamento de literatura   :a2,after a1  , 20d
     Construção da documentação final  :a3, 2022-12-27, 21d
+    Criação do Diagrama de Componentes:     c3, 2022-12-06, 14d
     section Desenvolvimento
     Criação do protótipo de telas  :  c2, after a2, 14d
     Aplicativo final   :     c3, after a3, 21d
