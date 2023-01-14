@@ -5,13 +5,13 @@
  ### Tela 1: Menu de acesso Incial
 - Nesta tela, temos o início de toda a integração do serviço a ser disponibilizado. Com a logomarca que simboliza a característica da natureza do serviço prestado no     uso do transporte público intermunicipal. Nesta tela tem 2 opções: 1ª o de “Cadastrar usuário” pelo primeiro acesso, e 2ª opção – “Entrar” com seu cadastro pela       primeira vez, onde vai poder entrar diretamente com o uso dos dados usados para realizar seu cadastro como usuário que forma utilizados na opção anteriormente.
 
-![Tela Inicial](Interface 2_ Menu de cadastro usuário..png)
+![Tela Inicial](tela inical de acesso ao sistema.png)
 
 ### Tela 2: Tela de Menu de Cadastro
 - Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uswo do recurso (leitor captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
 
 
-![Tela Inicial](Interface 2_ Menu de cadastro usuário..png)
+![Tela Inicial] (Interface 2_ Menu de cadastro usuário..png)
 
 
 
