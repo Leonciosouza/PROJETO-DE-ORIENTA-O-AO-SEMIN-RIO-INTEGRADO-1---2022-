@@ -11,7 +11,8 @@
 - Nesta tela, o suário é direcionado após passar pela primeira interface para inserir seus dados pessoais nos campos - Email e Senha já com o uswo do recurso (leitor captador de voz do software)  para facilitar o manuseio por parte do usuário: "deficie3ntes visuais"
 
 
-![Tela Inicial] (Interface 2_ Menu de cadastro usuário..png)
+![Tela Inicial](Interface 2_ Menu de cadastro usuário.png)
+
 
 
 
